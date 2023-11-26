@@ -33,10 +33,10 @@ def convertSecret(word, reverse = False) :
 
 secStr = convertSecret(str)
 
-with open('./File/secret_text.txt','w',encoding='UTF-8') as f:
+with open('./File/tutorial/secret_text.txt','w',encoding='UTF-8') as f:
     f.write(secStr)
 
-with open('./File/secret_text.txt','r',encoding='UTF-8') as f:
+with open('./File/tutorial/secret_text.txt','r',encoding='UTF-8') as f:
     read_secStr = f.read()
     
 rev_str = convertSecret(read_secStr,True)    
