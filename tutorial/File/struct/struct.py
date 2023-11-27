@@ -17,8 +17,8 @@ age,height,weight = 27,180,70
 num_data = struct.pack('iff', age, height, weight)
 data_b = name_data+ num_data
 
-with open('./File/struct/복합데이터.bin','wb') as f :
+with open('/tutorial/File/struct/복합데이터.bin','wb') as f :
     f.write(data_b)
 
-with open('./File/struct/복합데이터.bin','rb') as f :
+with open('/tutorial/File/struct/복합데이터.bin','rb') as f :
     data = f.read()

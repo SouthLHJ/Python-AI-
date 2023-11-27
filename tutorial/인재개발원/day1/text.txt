@@ -1,0 +1,33 @@
+# 단어 단어를 해석하는 방법
+## Encoder-Decoder
+
+시퀀스 to 시퀀스
+
+Encoder -
+Are you boy?
+Decoder -
+Yes i m boy.
+
+-----
+# 번역을 하면서 , 전체 문장을 계속 보게하는 방법
+## Seq2Seq with attention
+
+-----
+
+# transformer 방법 ( 구글 논문 ) attention을 이용한 논문
+
+
+자연어처리 -> attention을 이용하면 되지않을까?
+
+self attention을하면 부드러워지지않을까?
+
+
+-----
+# GPT : large Languge
+
+-----
+# 윤리적 AI의 탄생
+
+----
+#RLHF
+인간노가다에의한 반복학습
