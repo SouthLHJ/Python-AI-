@@ -1,0 +1,20 @@
+로컬 LLM할때는
+
+
+chatDBA 테스트
+http://chatdba.wedatalab.com
+
+오픈소스 LLM을 활용하여 DBMS 전문지식을 추가로 학습시킴
+영어와 한국어로 챗티응ㄹ 통한 특정분야 지식시스템 간ㅋ편구축
+웹 인터페이스를 통한 시스템 사용 편의성 증대
+할루시네이션 현상 최소화 가능
+현재 DBMS 지식이 학습되어있으면...류ㅠㅠㅠㅠㅠㅠ
+
+
+시멘틱 커널
+**랭체인** 대세
+
+
+검색 증강 생성 RAG 
+Streamlit
+LangChain Framework
