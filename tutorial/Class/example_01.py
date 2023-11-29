@@ -8,4 +8,4 @@ class Rabbit :
     def goto(self,x,y): # 토끼를 주어진 좌표로 이동
         self.xPos = x # 클래스의 속성 xPos를 주어진 x로 설정
         self.yPos = y
-    
+
